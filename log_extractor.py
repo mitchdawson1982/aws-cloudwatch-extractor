@@ -13,7 +13,6 @@ class LogExtractor:
         self.log_group_name = log_group_name
         self.start_time = start_time
         self.end_time = end_time
-        self.filter_list = filter_list
         self.limit = limit
         self.search_string = search_string
         self.client_type = client_type
